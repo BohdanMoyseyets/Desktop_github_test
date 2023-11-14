@@ -452,3 +452,4 @@ let y = a => a + 10
 
 console.log(y(10))
 console.log("task 2")
+console.log("bohdan");
