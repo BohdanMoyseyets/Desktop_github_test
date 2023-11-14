@@ -1,0 +1,28 @@
+/* body.dark{
+    background-color: blue;
+}
+body{
+    background-color: #000;
+}
+.dark{
+    background-color: aqua;
+} */
+
+
+
+input{
+    display: none;
+}
+label{
+    cursor:pointer;
+    position: fixed;
+    top: 10px;
+    right: 20px;
+}
+
+input:checked + header{
+    /* background: #000; */
+}
+input:checked ~ footer{
+    background: #000;
+}
