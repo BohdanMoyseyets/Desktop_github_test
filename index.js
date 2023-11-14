@@ -445,12 +445,14 @@
 // }
 // console.log(arr)
 
-let x = function abc(a){
-    return a+10;
-}
-console.log(x(10))
+// let x = function abc(a){
+//     return a+10;
+// }
+// console.log(x(10))
 
 
-let y = a => a + 10
+// let y = a => a + 10
 
-console.log(y(10))
+// console.log(y(10))
+
+console.log("bohdan")
